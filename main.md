@@ -17,4 +17,9 @@
 15. Add Zsh-Syntax-Highlighting 
 16. Add Zsh-Completions 
 17. Add Zsh-Autosuggestions 
-
+18. Configure history options 
+19. Add bind key for jumping command history 
+20. Set completions with colours for directories 
+21. Enable lowercase for searching as well 
+22. Install FZF 
+23. 
