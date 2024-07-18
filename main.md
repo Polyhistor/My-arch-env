@@ -1,0 +1,20 @@
+# Packages to install in order 
+
+1. Alacrity 
+2. Neovim 
+3. NvChad 
+4. Obsidian 
+5. Git 
+6. Outlook 
+7. Brave 
+8. OhMyZsh
+9. Bun
+10. Zinit 
+11. Nerd Fonts 
+12. Config Alacrity to User Nerd Fonts 
+13. Install powerLevel10K through Zinit 
+14. Configure powerLevel10K using the prompt 
+15. Add Zsh-Syntax-Highlighting 
+16. Add Zsh-Completions 
+17. Add Zsh-Autosuggestions 
+
