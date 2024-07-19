@@ -27,4 +27,6 @@
 25. Install GH 
 26. Install ZSH Plugins 
 27. Install Stow
-28. 
+28. Install xclip 
+29. Setup neovim to Yank to clipboard
+30. 
