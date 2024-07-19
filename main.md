@@ -21,5 +21,10 @@
 19. Add bind key for jumping command history 
 20. Set completions with colours for directories 
 21. Enable lowercase for searching as well 
-22. Install FZF 
-23. 
+22. Install FZF
+23. Configure FZF 
+24. Configure Zoxide 
+25. Install GH 
+26. Install ZSH Plugins 
+27. Install Stow
+28. 
